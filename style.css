@@ -1,0 +1,159 @@
+.body-nuestras-series {
+    padding-bottom: 20px;
+    background-image: url(../imagenes/totorogif.gif);
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+    margin-bottom: 200px;
+  }
+  
+#carouselExampleCaptions{
+    max-width: 750px;
+  margin: 0 auto;
+  margin-top: 70px;
+  
+}
+
+.carousel-item{
+    overflow: hidden;
+    height: 400px;
+    
+
+}
+
+.carousel-item img{
+    object-fit: cover;
+   
+    object-position: center
+    
+}
+
+.navbar {
+    margin-bottom: 20px;
+    margin-top: 0;
+  }
+  
+  .nuestra-colección{
+    text-align: center;
+    text-decoration: dotted;
+    margin-top: 72px;
+    color: rgb(44, 108, 177);
+    
+  }
+ 
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
+  .b-example-divider {
+    height: 3rem;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+  }
+
+  .b-example-vr {
+    flex-shrink: 0;
+    width: 1.5rem;
+    height: 100vh;
+  }
+
+  .bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+  }
+
+  .nav-scroller {
+    position: relative;
+    z-index: 2;
+    height: 2.75rem;
+    overflow-y: hidden;
+  }
+
+  .nav-scroller .nav {
+    display: flex;
+    flex-wrap: nowrap;
+    padding-bottom: 1rem;
+    margin-top: -1px;
+    overflow-x: auto;
+    text-align: center;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .body-inicio {
+    background-image:url(../imagenes/el\ viaje.\ de\ chihiro\ 3.jpeg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+
+  .main-inicio {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+
+  }
+
+  footer {
+    background: rgb(80, 212, 248);
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    margin: 0!important;
+    padding: 20px;
+  }
+
+  .body-sobre-nosotros {
+    background-image: url(../imagenes/mi-vecino-totoro-vuelve-a-los-cines-el-primer-clasico-de-hay_d5tf.1200.jpg.webp);
+  }
+  .h1-sobre-nosotros {
+    text-align: right;
+    margin: 15%;
+    margin-right: 0;
+    color: rgb(203, 203, 203);
+    font-weight: 600;
+    font: size 35px;
+   
+  }
+  
+  .body-contactanos {
+    
+    background-image: url(../imagenes/el.\ viaje\ de\ chihiro\ 4.jpeg);
+  }
+ 
+  .footer-contactanos {
+    
+    background-color: rgb(213, 211, 207);
+   
+  }
+
+  .tarjetas-personajes {
+
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    
+  
+
+  }
+
+  .card-img-top{
+    margin-top: 40px;
+border-radius: 128px;
+
+  }
+  .mb-3 {
+    display:block;
+    max-width: 40%;
+    justify-content: center;
+  }
+
+   
+  
